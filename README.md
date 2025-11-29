@@ -1,0 +1,1 @@
+Isso é um readme caso você queira ler alguma coisa e esteja sem tempo para ler aí você só lê o que está sendo lido bem rápido, sem perda de tempo alguma, bem de boa, bem eficiente, você não tem mais nada para fazer não?
