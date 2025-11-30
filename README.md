@@ -35,4 +35,4 @@ Para acessar esse recurso veja o arquivo [banco.sql](banco.sql)
 
 ## Análise crítica
 Para acessar esse recurso veja o arquivo [TP1_IBD.pdf](TP1_IBD.pdf)
----
+
