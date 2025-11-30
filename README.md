@@ -27,6 +27,6 @@ Utilizado para modelar o banco
 ## Dicionário de Dados
 Utilizado para garantir a integridade dos dados no banco.
 
-![dicionary1](assets/dicionary1.png) 
-![dicionary2](assets/dicionary2.png) 
+![dicionary1](assets/dicionary1.jpg) 
+![dicionary2](assets/dicionary2.jpg) 
 ---
