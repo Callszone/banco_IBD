@@ -24,6 +24,9 @@ Utilizado para modelar o banco
 
 ![Main](assets/er.png)
 
+## Dicionário de Dados
+Utilizado para garantir a integridade dos dados no banco.
 
+![dicionary](assets/dicionary.png) 
 
 ---
