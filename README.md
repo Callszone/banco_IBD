@@ -22,7 +22,7 @@ Foi utilizada da Lei de Acesso a Informação para conseguir dados com o intuito
 ### Modelo ER
 Utilizado para modelar o banco 
 
-![Main](assets/diagrama_er.png)
+![Main](assets/er.png)
 
 
 
