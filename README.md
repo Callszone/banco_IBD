@@ -29,4 +29,9 @@ Utilizado para garantir a integridade dos dados no banco.
 
 ![dicionary1](assets/dicionary1.jpg) 
 ![dicionary2](assets/dicionary2.jpg) 
+
+## Banco PosgreSQL
+Para acessar esse recurso veja o arquivo [banco.sql](banco.sql)
+
+## Análise crítica
 ---
