@@ -1,6 +1,6 @@
 # Projeto Final de IBD: Lei de Acesso a Informação 
 
-Este projeto foi desenvolvido como trabalho final para a disciplina de Programação e Desenvolvimento de Software 2 (PDS2) na Universidade Federal de Minas Gerais (UFMG).
+Este projeto foi desenvolvido como trabalho final para a disciplina de Introdução a Banco de Dados (IBD) na Universidade Federal de Minas Gerais (UFMG).
 
 - **Disciplina:** Introdução a Banco de Dados
 - **Professores:** Clodoveu Augusto Davis Junior
